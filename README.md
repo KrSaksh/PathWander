@@ -1,4 +1,4 @@
-# PathWander
+# PathWander - Journey Tracking App
 
 An application to show users the route of their journey, including stops, distances between stops, and the progress of the journey. The app features a switch for distance units, a button to indicate reaching the next stop, and a progress bar for visualizing journey progress. It supports both Android devices and the Android emulator.
 
